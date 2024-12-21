@@ -18,3 +18,6 @@ Functions:
       Grenerates a random computer selection
   Get winner:
       Determines the winner based on user and computer choices.
+
+Live Demo : 
+ sudalaieswaran.github.io/Game-project-/.
