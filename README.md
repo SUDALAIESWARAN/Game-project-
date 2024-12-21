@@ -1,5 +1,7 @@
 # rock-paper-scissor-game
 
+Live Demo : sudalaieswaran.github.io/Game-project-/.
+
 Description:
 HTML :
     Create the game structure with buttons for choices  and displays for user and displays computer selections, as well as the winner.
@@ -19,5 +21,4 @@ Functions:
   Get winner:
       Determines the winner based on user and computer choices.
 
-Live Demo : 
- sudalaieswaran.github.io/Game-project-/.
+
